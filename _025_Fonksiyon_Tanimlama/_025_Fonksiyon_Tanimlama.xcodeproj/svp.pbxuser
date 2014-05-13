@@ -1,0 +1,122 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 8C89757D14EEAC6E0095848A /* _025_Fonksiyon_Tanimlama */;
+		activeTarget = 8DD76F960486AA7600D96B5E /* _025_Fonksiyon_Tanimlama */;
+		codeSenseManager = 8C89758414EEAC8D0095848A /* Code sense */;
+		executables = (
+			8C89757D14EEAC6E0095848A /* _025_Fonksiyon_Tanimlama */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 351186030;
+			PBXWorkspaceStateSaveDate = 351186030;
+		};
+		perUserProjectItems = {
+			8C8975A414EEB7E50095848A /* XCBuildMessageTextBookmark */ = 8C8975A414EEB7E50095848A /* XCBuildMessageTextBookmark */;
+			8C8975A514EEB7E50095848A /* PBXTextBookmark */ = 8C8975A514EEB7E50095848A /* PBXTextBookmark */;
+		};
+		sourceControlManager = 8C89758314EEAC8D0095848A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* _025_Fonksiyon_Tanimlama.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {544, 260}}";
+			sepNavSelRange = "{230, 0}";
+			sepNavVisRange = "{0, 415}";
+			sepNavWindowFrame = "{{15, 227}, {606, 366}}";
+		};
+	};
+	8C89757D14EEAC6E0095848A /* _025_Fonksiyon_Tanimlama */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = _025_Fonksiyon_Tanimlama;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	8C89758314EEAC8D0095848A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	8C89758414EEAC8D0095848A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8C8975A414EEB7E50095848A /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Implicit declaration of function 'faktoriyelAl'";
+		fRef = 08FB7796FE84155DC02AAC07 /* _025_Fonksiyon_Tanimlama.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 8;
+		rType = 1;
+	};
+	8C8975A514EEB7E50095848A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* _025_Fonksiyon_Tanimlama.m */;
+		name = "_025_Fonksiyon_Tanimlama.m: 9";
+		rLen = 0;
+		rLoc = 230;
+		rType = 0;
+		vrLen = 437;
+		vrLoc = 0;
+	};
+	8DD76F960486AA7600D96B5E /* _025_Fonksiyon_Tanimlama */ = {
+		activeExec = 0;
+		executables = (
+			8C89757D14EEAC6E0095848A /* _025_Fonksiyon_Tanimlama */,
+		);
+	};
+}

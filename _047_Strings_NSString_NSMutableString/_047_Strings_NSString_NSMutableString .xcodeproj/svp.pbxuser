@@ -1,0 +1,151 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 8C92BD0B15209280008C40F4 /* _047_Strings_NSString_NSMutableString  */;
+		activeTarget = 8DD76F960486AA7600D96B5E /* _047_Strings_NSString_NSMutableString  */;
+		codeSenseManager = 8C92BD131520929E008C40F4 /* Code sense */;
+		executables = (
+			8C92BD0B15209280008C40F4 /* _047_Strings_NSString_NSMutableString  */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					173,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFindDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFindDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					187,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFindDataSource_MessageID,
+					PBXFindDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXSymbolsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXSymbolsDataSource_SymbolNameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					16,
+					200,
+					50,
+					113,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXSymbolsDataSource_SymbolTypeIconID,
+					PBXSymbolsDataSource_SymbolNameID,
+					PBXSymbolsDataSource_SymbolTypeID,
+					PBXSymbolsDataSource_ReferenceNameID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 354459043;
+			PBXWorkspaceStateSaveDate = 354459043;
+		};
+		perUserProjectItems = {
+			8C8CC5441520A59200A7B2FB /* PBXTextBookmark */ = 8C8CC5441520A59200A7B2FB /* PBXTextBookmark */;
+			8C8CC5451520A59200A7B2FB /* PBXTextBookmark */ = 8C8CC5451520A59200A7B2FB /* PBXTextBookmark */;
+		};
+		sourceControlManager = 8C92BD121520929E008C40F4 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* _047_Strings_NSString_NSMutableString .m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {502, 611}}";
+			sepNavSelRange = "{939, 0}";
+			sepNavVisRange = "{207, 400}";
+			sepNavWindowFrame = "{{31, 242}, {611, 345}}";
+		};
+	};
+	8C8CC5441520A59200A7B2FB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* _047_Strings_NSString_NSMutableString .m */;
+		name = "_047_Strings_NSString_NSMutableString .m: 15";
+		rLen = 0;
+		rLoc = 475;
+		rType = 0;
+		vrLen = 579;
+		vrLoc = 144;
+	};
+	8C8CC5451520A59200A7B2FB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* _047_Strings_NSString_NSMutableString .m */;
+		name = "_047_Strings_NSString_NSMutableString .m: 16";
+		rLen = 0;
+		rLoc = 475;
+		rType = 0;
+		vrLen = 525;
+		vrLoc = 144;
+	};
+	8C92BD0B15209280008C40F4 /* _047_Strings_NSString_NSMutableString  */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "_047_Strings_NSString_NSMutableString ";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	8C92BD121520929E008C40F4 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	8C92BD131520929E008C40F4 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8DD76F960486AA7600D96B5E /* _047_Strings_NSString_NSMutableString  */ = {
+		activeExec = 0;
+		executables = (
+			8C92BD0B15209280008C40F4 /* _047_Strings_NSString_NSMutableString  */,
+		);
+	};
+}

@@ -1,0 +1,122 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 8CF6158C14EEBEA900F03E8D /* _027_Structures_Kullanimi */;
+		activeTarget = 8DD76F960486AA7600D96B5E /* _027_Structures_Kullanimi */;
+		codeSenseManager = 8CF6159814EEBEC800F03E8D /* Code sense */;
+		executables = (
+			8CF6158C14EEBEA900F03E8D /* _027_Structures_Kullanimi */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 351190697;
+			PBXWorkspaceStateSaveDate = 351190697;
+		};
+		perUserProjectItems = {
+			8CF6160614EECE8400F03E8D /* XCBuildMessageTextBookmark */ = 8CF6160614EECE8400F03E8D /* XCBuildMessageTextBookmark */;
+			8CF6160714EECE8400F03E8D /* PBXTextBookmark */ = 8CF6160714EECE8400F03E8D /* PBXTextBookmark */;
+		};
+		sourceControlManager = 8CF6159714EEBEC800F03E8D /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* _027_Structures_Kullanimi.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 494}}";
+			sepNavSelRange = "{262, 0}";
+			sepNavVisRange = "{198, 361}";
+			sepNavWindowFrame = "{{38, 73}, {548, 520}}";
+		};
+	};
+	8CF6158C14EEBEA900F03E8D /* _027_Structures_Kullanimi */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = _027_Structures_Kullanimi;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	8CF6159714EEBEC800F03E8D /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	8CF6159814EEBEC800F03E8D /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8CF6160614EECE8400F03E8D /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "'struct personel' has no member named 'adiSoyadi'";
+		fRef = 08FB7796FE84155DC02AAC07 /* _027_Structures_Kullanimi.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 27;
+		rType = 1;
+	};
+	8CF6160714EECE8400F03E8D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* _027_Structures_Kullanimi.m */;
+		name = "_027_Structures_Kullanimi.m: 12";
+		rLen = 0;
+		rLoc = 262;
+		rType = 0;
+		vrLen = 361;
+		vrLoc = 198;
+	};
+	8DD76F960486AA7600D96B5E /* _027_Structures_Kullanimi */ = {
+		activeExec = 0;
+		executables = (
+			8CF6158C14EEBEA900F03E8D /* _027_Structures_Kullanimi */,
+		);
+	};
+}

@@ -1,0 +1,212 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 8C91555714EEF38A003BF75C /* _029_Nesne_Yonelimli_Programlama2 */;
+		activeTarget = 8DD76F960486AA7600D96B5E /* _029_Nesne_Yonelimli_Programlama2 */;
+		addToTargets = (
+			8DD76F960486AA7600D96B5E /* _029_Nesne_Yonelimli_Programlama2 */,
+		);
+		codeSenseManager = 8C91555E14EEF3A9003BF75C /* Code sense */;
+		executables = (
+			8C91555714EEF38A003BF75C /* _029_Nesne_Yonelimli_Programlama2 */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					208,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFindDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFindDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					222,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFindDataSource_MessageID,
+					PBXFindDataSource_LocationID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 351942544;
+			PBXWorkspaceStateSaveDate = 351942544;
+		};
+		perUserProjectItems = {
+			8C88F87A14FA37C5005E6484 /* PBXTextBookmark */ = 8C88F87A14FA37C5005E6484 /* PBXTextBookmark */;
+			8C88F87B14FA37C5005E6484 /* PBXTextBookmark */ = 8C88F87B14FA37C5005E6484 /* PBXTextBookmark */;
+			8C8DEB0F14FA339300DFFA0B /* PBXTextBookmark */ = 8C8DEB0F14FA339300DFFA0B /* PBXTextBookmark */;
+			8C8DEB1014FA339300DFFA0B /* PBXTextBookmark */ = 8C8DEB1014FA339300DFFA0B /* PBXTextBookmark */;
+			8C91559814EEFD21003BF75C /* PBXTextBookmark */ = 8C91559814EEFD21003BF75C /* PBXTextBookmark */;
+			8CC581DC14EF03920025AF00 /* PBXTextBookmark */ = 8CC581DC14EF03920025AF00 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 8C91555D14EEF3A9003BF75C /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* _029_Nesne_Yonelimli_Programlama2.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {460, 325}}";
+			sepNavSelRange = "{212, 0}";
+			sepNavVisRange = "{0, 369}";
+			sepNavWindowFrame = "{{51, 157}, {524, 377}}";
+		};
+	};
+	32A70AAB03705E1F00C91783 /* _029_Nesne_Yonelimli_Programlama2_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {971, 167}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 206}";
+		};
+	};
+	8C88F87A14FA37C5005E6484 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8C91556414EEF534003BF75C /* BankaHesabi.h */;
+		name = "BankaHesabi.h: 5";
+		rLen = 11;
+		rLoc = 76;
+		rType = 0;
+		vrLen = 282;
+		vrLoc = 260;
+	};
+	8C88F87B14FA37C5005E6484 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8C91556414EEF534003BF75C /* BankaHesabi.h */;
+		name = "BankaHesabi.h: 5";
+		rLen = 11;
+		rLoc = 76;
+		rType = 0;
+		vrLen = 282;
+		vrLoc = 260;
+	};
+	8C8DEB0F14FA339300DFFA0B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* _029_Nesne_Yonelimli_Programlama2.m */;
+		name = "_029_Nesne_Yonelimli_Programlama2.m: 7";
+		rLen = 0;
+		rLoc = 212;
+		rType = 0;
+		vrLen = 369;
+		vrLoc = 0;
+	};
+	8C8DEB1014FA339300DFFA0B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32A70AAB03705E1F00C91783 /* _029_Nesne_Yonelimli_Programlama2_Prefix.pch */;
+		name = "_029_Nesne_Yonelimli_Programlama2_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 206;
+		vrLoc = 0;
+	};
+	8C91555714EEF38A003BF75C /* _029_Nesne_Yonelimli_Programlama2 */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = _029_Nesne_Yonelimli_Programlama2;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	8C91555D14EEF3A9003BF75C /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	8C91555E14EEF3A9003BF75C /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8C91556414EEF534003BF75C /* BankaHesabi.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {418, 325}}";
+			sepNavSelRange = "{76, 11}";
+			sepNavVisRange = "{260, 282}";
+			sepNavWindowFrame = "{{38, 216}, {548, 351}}";
+		};
+	};
+	8C91556514EEF534003BF75C /* BankaHesabi.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {467, 507}}";
+			sepNavSelRange = "{707, 0}";
+			sepNavVisRange = "{0, 485}";
+			sepNavWindowFrame = "{{33, 114}, {529, 477}}";
+		};
+	};
+	8C91559814EEFD21003BF75C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8C91556514EEF534003BF75C /* BankaHesabi.m */;
+		name = "BankaHesabi.m: 39";
+		rLen = 0;
+		rLoc = 707;
+		rType = 0;
+		vrLen = 485;
+		vrLoc = 0;
+	};
+	8CC581DC14EF03920025AF00 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C6859EA3029092ED04C91782 /* _029_Nesne_Yonelimli_Programlama2.1 */;
+		name = "_029_Nesne_Yonelimli_Programlama2.1: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 685;
+		vrLoc = 0;
+	};
+	8DD76F960486AA7600D96B5E /* _029_Nesne_Yonelimli_Programlama2 */ = {
+		activeExec = 0;
+		executables = (
+			8C91555714EEF38A003BF75C /* _029_Nesne_Yonelimli_Programlama2 */,
+		);
+	};
+	C6859EA3029092ED04C91782 /* _029_Nesne_Yonelimli_Programlama2.1 */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {635, 962}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 685}";
+		};
+	};
+}
