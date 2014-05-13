@@ -1,0 +1,139 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 8CA488751537514100F06E0C /* _075_DosyaOkumaYazmaCalistirmaSilmeDurumu */;
+		activeTarget = 8DD76F960486AA7600D96B5E /* _075_DosyaOkumaYazmaCalistirmaSilmeDurumu */;
+		codeSenseManager = 8CA4887B1537516000F06E0C /* Code sense */;
+		executables = (
+			8CA488751537514100F06E0C /* _075_DosyaOkumaYazmaCalistirmaSilmeDurumu */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					129,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXSymbolsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXSymbolsDataSource_SymbolNameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					16,
+					200,
+					50,
+					69,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXSymbolsDataSource_SymbolTypeIconID,
+					PBXSymbolsDataSource_SymbolNameID,
+					PBXSymbolsDataSource_SymbolTypeID,
+					PBXSymbolsDataSource_ReferenceNameID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 357670596;
+			PBXWorkspaceStateSaveDate = 357670596;
+		};
+		perUserProjectItems = {
+			8CA488AE1537592F00F06E0C /* PBXTextBookmark */ = 8CA488AE1537592F00F06E0C /* PBXTextBookmark */;
+			8CB16E5415519EDC001CED7C /* PBXTextBookmark */ = 8CB16E5415519EDC001CED7C /* PBXTextBookmark */;
+		};
+		sourceControlManager = 8CA4887A1537516000F06E0C /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* _075_DosyaOkumaYazmaCalistirmaSilmeDurumu.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {670, 299}}";
+			sepNavSelRange = "{146, 329}";
+			sepNavVisRange = "{143, 350}";
+			sepNavWindowFrame = "{{119, 224}, {736, 371}}";
+		};
+	};
+	8CA488751537514100F06E0C /* _075_DosyaOkumaYazmaCalistirmaSilmeDurumu */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = _075_DosyaOkumaYazmaCalistirmaSilmeDurumu;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	8CA4887A1537516000F06E0C /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	8CA4887B1537516000F06E0C /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8CA488AE1537592F00F06E0C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* _075_DosyaOkumaYazmaCalistirmaSilmeDurumu.m */;
+		name = "_075_DosyaOkumaYazmaCalistirmaSilmeDurumu.m: 7";
+		rLen = 329;
+		rLoc = 146;
+		rType = 0;
+		vrLen = 366;
+		vrLoc = 143;
+	};
+	8CB16E5415519EDC001CED7C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* _075_DosyaOkumaYazmaCalistirmaSilmeDurumu.m */;
+		name = "_075_DosyaOkumaYazmaCalistirmaSilmeDurumu.m: 7";
+		rLen = 329;
+		rLoc = 146;
+		rType = 0;
+		vrLen = 350;
+		vrLoc = 143;
+	};
+	8DD76F960486AA7600D96B5E /* _075_DosyaOkumaYazmaCalistirmaSilmeDurumu */ = {
+		activeExec = 0;
+		executables = (
+			8CA488751537514100F06E0C /* _075_DosyaOkumaYazmaCalistirmaSilmeDurumu */,
+		);
+	};
+}

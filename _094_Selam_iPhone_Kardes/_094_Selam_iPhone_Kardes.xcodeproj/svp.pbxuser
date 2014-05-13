@@ -1,0 +1,175 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* _094_Selam_iPhone_KardesAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {931, 1209}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 387}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* _094_Selam_iPhone_Kardes */ = {
+		activeExec = 0;
+		executables = (
+			8C97C1CB155561CC000858FC /* _094_Selam_iPhone_Kardes */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* _094_Selam_iPhone_KardesViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {502, 169}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 187}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* _094_Selam_iPhone_KardesViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {712, 819}}";
+			sepNavSelRange = "{183, 0}";
+			sepNavVisRange = "{0, 0}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 8C97C1CB155561CC000858FC /* _094_Selam_iPhone_Kardes */;
+		activeSDKPreference = iphonesimulator4.3;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* _094_Selam_iPhone_Kardes */;
+		codeSenseManager = 8C97C1D6155561EB000858FC /* Code sense */;
+		executables = (
+			8C97C1CB155561CC000858FC /* _094_Selam_iPhone_Kardes */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					52.9609375,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 357917132;
+			PBXWorkspaceStateSaveDate = 357917132;
+		};
+		perUserProjectItems = {
+			8C97C1EB15556434000858FC /* PBXTextBookmark */ = 8C97C1EB15556434000858FC /* PBXTextBookmark */;
+			8C97C1EC15556434000858FC /* PBXTextBookmark */ = 8C97C1EC15556434000858FC /* PBXTextBookmark */;
+			8C97C1ED15556434000858FC /* PBXTextBookmark */ = 8C97C1ED15556434000858FC /* PBXTextBookmark */;
+			8C97C20015556F76000858FC /* PBXTextBookmark */ = 8C97C20015556F76000858FC /* PBXTextBookmark */;
+			8C97C20115556F76000858FC /* PBXTextBookmark */ = 8C97C20115556F76000858FC /* PBXTextBookmark */;
+		};
+		sourceControlManager = 8C97C1D5155561EB000858FC /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	32CA4F630368D1EE00C91783 /* _094_Selam_iPhone_Kardes_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {931, 212}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 217}";
+		};
+	};
+	8C97C1CB155561CC000858FC /* _094_Selam_iPhone_Kardes */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = _094_Selam_iPhone_Kardes;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	8C97C1D5155561EB000858FC /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	8C97C1D6155561EB000858FC /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8C97C1EB15556434000858FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* _094_Selam_iPhone_KardesViewController.h */;
+		name = "_094_Selam_iPhone_KardesViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 187;
+		vrLoc = 0;
+	};
+	8C97C1EC15556434000858FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* _094_Selam_iPhone_Kardes_Prefix.pch */;
+		name = "_094_Selam_iPhone_Kardes_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 217;
+		vrLoc = 0;
+	};
+	8C97C1ED15556434000858FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* _094_Selam_iPhone_KardesAppDelegate.m */;
+		name = "_094_Selam_iPhone_KardesAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 387;
+		vrLoc = 0;
+	};
+	8C97C20015556F76000858FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* _094_Selam_iPhone_KardesViewController.m */;
+		name = "_094_Selam_iPhone_KardesViewController.m: 13";
+		rLen = 0;
+		rLoc = 292;
+		rType = 0;
+		vrLen = 481;
+		vrLoc = 0;
+	};
+	8C97C20115556F76000858FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* _094_Selam_iPhone_KardesViewController.m */;
+		name = "_094_Selam_iPhone_KardesViewController.m: 8";
+		rLen = 0;
+		rLoc = 183;
+		rType = 0;
+		vrLen = 0;
+		vrLoc = 0;
+	};
+}

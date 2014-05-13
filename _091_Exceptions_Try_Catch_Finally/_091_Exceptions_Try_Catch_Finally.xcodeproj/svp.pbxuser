@@ -1,0 +1,139 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 8C9453E815547803006FFEBF /* _091_Exceptions_Try_Catch_Finally */;
+		activeTarget = 8DD76F960486AA7600D96B5E /* _091_Exceptions_Try_Catch_Finally */;
+		codeSenseManager = 8C9453EE15547822006FFEBF /* Code sense */;
+		executables = (
+			8C9453E815547803006FFEBF /* _091_Exceptions_Try_Catch_Finally */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					206,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXSymbolsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXSymbolsDataSource_SymbolNameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					16,
+					200,
+					50,
+					146,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXSymbolsDataSource_SymbolTypeIconID,
+					PBXSymbolsDataSource_SymbolNameID,
+					PBXSymbolsDataSource_SymbolTypeID,
+					PBXSymbolsDataSource_ReferenceNameID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 357896005;
+			PBXWorkspaceStateSaveDate = 357896005;
+		};
+		perUserProjectItems = {
+			8C9295F315550FFA000F0118 /* PBXTextBookmark */ = 8C9295F315550FFA000F0118 /* PBXTextBookmark */;
+			8C94541615547C28006FFEBF /* PBXTextBookmark */ = 8C94541615547C28006FFEBF /* PBXTextBookmark */;
+		};
+		sourceControlManager = 8C9453ED15547822006FFEBF /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* _091_Exceptions_Try_Catch_Finally.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {460, 377}}";
+			sepNavSelRange = "{170, 0}";
+			sepNavVisRange = "{0, 516}";
+			sepNavWindowFrame = "{{78, 207}, {542, 512}}";
+		};
+	};
+	8C9295F315550FFA000F0118 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* _091_Exceptions_Try_Catch_Finally.m */;
+		name = "_091_Exceptions_Try_Catch_Finally.m: 6";
+		rLen = 0;
+		rLoc = 170;
+		rType = 0;
+		vrLen = 516;
+		vrLoc = 0;
+	};
+	8C9453E815547803006FFEBF /* _091_Exceptions_Try_Catch_Finally */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = _091_Exceptions_Try_Catch_Finally;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	8C9453ED15547822006FFEBF /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	8C9453EE15547822006FFEBF /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8C94541615547C28006FFEBF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* _091_Exceptions_Try_Catch_Finally.m */;
+		name = "_091_Exceptions_Try_Catch_Finally.m: 6";
+		rLen = 0;
+		rLoc = 170;
+		rType = 0;
+		vrLen = 516;
+		vrLoc = 0;
+	};
+	8DD76F960486AA7600D96B5E /* _091_Exceptions_Try_Catch_Finally */ = {
+		activeExec = 0;
+		executables = (
+			8C9453E815547803006FFEBF /* _091_Exceptions_Try_Catch_Finally */,
+		);
+	};
+}

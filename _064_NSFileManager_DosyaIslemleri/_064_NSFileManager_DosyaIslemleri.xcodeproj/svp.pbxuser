@@ -1,0 +1,141 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 8C908C001524EB3500F0688A /* _064_NSFileManager_DosyaIslemleri */;
+		activeTarget = 8DD76F960486AA7600D96B5E /* _064_NSFileManager_DosyaIslemleri */;
+		addToTargets = (
+		);
+		codeSenseManager = 8C908C0C1524EB4100F0688A /* Code sense */;
+		executables = (
+			8C908C001524EB3500F0688A /* _064_NSFileManager_DosyaIslemleri */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					187,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXSymbolsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXSymbolsDataSource_SymbolNameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					16,
+					200,
+					50,
+					127.20849609375,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXSymbolsDataSource_SymbolTypeIconID,
+					PBXSymbolsDataSource_SymbolNameID,
+					PBXSymbolsDataSource_SymbolTypeID,
+					PBXSymbolsDataSource_ReferenceNameID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 355164114;
+			PBXWorkspaceStateSaveDate = 355164114;
+		};
+		perUserProjectItems = {
+			8C8E022E152B5FE500F860F1 /* PBXTextBookmark */ = 8C8E022E152B5FE500F860F1 /* PBXTextBookmark */;
+			8C8E022F152B5FE500F860F1 /* PBXTextBookmark */ = 8C8E022F152B5FE500F860F1 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 8C908C0B1524EB4100F0688A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* _064_NSFileManager_DosyaIslemleri.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {544, 403}}";
+			sepNavSelRange = "{627, 0}";
+			sepNavVisRange = "{388, 271}";
+			sepNavWindowFrame = "{{358, 109}, {607, 477}}";
+		};
+	};
+	8C8E022E152B5FE500F860F1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* _064_NSFileManager_DosyaIslemleri.m */;
+		name = "_064_NSFileManager_DosyaIslemleri.m: 24";
+		rLen = 0;
+		rLoc = 627;
+		rType = 0;
+		vrLen = 271;
+		vrLoc = 388;
+	};
+	8C8E022F152B5FE500F860F1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* _064_NSFileManager_DosyaIslemleri.m */;
+		name = "_064_NSFileManager_DosyaIslemleri.m: 24";
+		rLen = 0;
+		rLoc = 627;
+		rType = 0;
+		vrLen = 271;
+		vrLoc = 388;
+	};
+	8C908C001524EB3500F0688A /* _064_NSFileManager_DosyaIslemleri */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = _064_NSFileManager_DosyaIslemleri;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	8C908C0B1524EB4100F0688A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	8C908C0C1524EB4100F0688A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8DD76F960486AA7600D96B5E /* _064_NSFileManager_DosyaIslemleri */ = {
+		activeExec = 0;
+		executables = (
+			8C908C001524EB3500F0688A /* _064_NSFileManager_DosyaIslemleri */,
+		);
+	};
+}

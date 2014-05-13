@@ -1,0 +1,139 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 8CA4870D1537310100F06E0C /* _071_BirDiziniTasimaVeYenidenAdlandirma */;
+		activeTarget = 8DD76F960486AA7600D96B5E /* _071_BirDiziniTasimaVeYenidenAdlandirma */;
+		codeSenseManager = 8CA487131537311F00F06E0C /* Code sense */;
+		executables = (
+			8CA4870D1537310100F06E0C /* _071_BirDiziniTasimaVeYenidenAdlandirma */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					161,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXSymbolsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXSymbolsDataSource_SymbolNameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					16,
+					200,
+					50,
+					101,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXSymbolsDataSource_SymbolTypeIconID,
+					PBXSymbolsDataSource_SymbolNameID,
+					PBXSymbolsDataSource_SymbolTypeID,
+					PBXSymbolsDataSource_ReferenceNameID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 357670427;
+			PBXWorkspaceStateSaveDate = 357670427;
+		};
+		perUserProjectItems = {
+			8CA48743153739C000F06E0C /* PBXTextBookmark */ = 8CA48743153739C000F06E0C /* PBXTextBookmark */;
+			8CB16E2215519E2F001CED7C /* PBXTextBookmark */ = 8CB16E2215519E2F001CED7C /* PBXTextBookmark */;
+		};
+		sourceControlManager = 8CA487121537311F00F06E0C /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* _071_BirDiziniTasimaVeYenidenAdlandirma.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {621, 429}}";
+			sepNavSelRange = "{158, 0}";
+			sepNavVisRange = "{0, 527}";
+			sepNavWindowFrame = "{{372, 100}, {684, 504}}";
+		};
+	};
+	8CA4870D1537310100F06E0C /* _071_BirDiziniTasimaVeYenidenAdlandirma */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = _071_BirDiziniTasimaVeYenidenAdlandirma;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	8CA487121537311F00F06E0C /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	8CA487131537311F00F06E0C /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8CA48743153739C000F06E0C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* _071_BirDiziniTasimaVeYenidenAdlandirma.m */;
+		name = "_071_BirDiziniTasimaVeYenidenAdlandirma.m: 5";
+		rLen = 0;
+		rLoc = 158;
+		rType = 0;
+		vrLen = 612;
+		vrLoc = 0;
+	};
+	8CB16E2215519E2F001CED7C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* _071_BirDiziniTasimaVeYenidenAdlandirma.m */;
+		name = "_071_BirDiziniTasimaVeYenidenAdlandirma.m: 5";
+		rLen = 0;
+		rLoc = 158;
+		rType = 0;
+		vrLen = 527;
+		vrLoc = 0;
+	};
+	8DD76F960486AA7600D96B5E /* _071_BirDiziniTasimaVeYenidenAdlandirma */ = {
+		activeExec = 0;
+		executables = (
+			8CA4870D1537310100F06E0C /* _071_BirDiziniTasimaVeYenidenAdlandirma */,
+		);
+	};
+}

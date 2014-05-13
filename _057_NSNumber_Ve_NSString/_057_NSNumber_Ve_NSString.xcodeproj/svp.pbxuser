@@ -1,0 +1,143 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 8C8A4D0815211D8F00C1C113 /* _057_NSNumber_Ve_NSString */;
+		activeTarget = 8DD76F960486AA7600D96B5E /* _057_NSNumber_Ve_NSString */;
+		breakpoints = (
+			8C8A4D0F15211D9B00C1C113 /* _057_NSNumber_Ve_NSString.m:5 */,
+		);
+		codeSenseManager = 8C8A4D1215211DBB00C1C113 /* Code sense */;
+		executables = (
+			8C8A4D0815211D8F00C1C113 /* _057_NSNumber_Ve_NSString */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					206,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 354491791;
+			PBXWorkspaceStateSaveDate = 354491791;
+		};
+		perUserProjectItems = {
+			8C8A4D1915211F1E00C1C113 /* PBXTextBookmark */ = 8C8A4D1915211F1E00C1C113 /* PBXTextBookmark */;
+			8C8A4D2D15211F7700C1C113 /* PBXTextBookmark */ = 8C8A4D2D15211F7700C1C113 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 8C8A4D1115211DBB00C1C113 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* _057_NSNumber_Ve_NSString.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {460, 351}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 540}";
+			sepNavWindowFrame = "{{36, 147}, {548, 438}}";
+		};
+	};
+	8C8A4D0815211D8F00C1C113 /* _057_NSNumber_Ve_NSString */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = _057_NSNumber_Ve_NSString;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	8C8A4D0F15211D9B00C1C113 /* _057_NSNumber_Ve_NSString.m:5 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 08FB7796FE84155DC02AAC07 /* _057_NSNumber_Ve_NSString.m */;
+		functionName = "main()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 5;
+		modificationTime = 354491805.57413;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	8C8A4D1115211DBB00C1C113 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	8C8A4D1215211DBB00C1C113 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8C8A4D1915211F1E00C1C113 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* _057_NSNumber_Ve_NSString.m */;
+		name = "_057_NSNumber_Ve_NSString.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 234;
+		vrLoc = 0;
+	};
+	8C8A4D2D15211F7700C1C113 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* _057_NSNumber_Ve_NSString.m */;
+		name = "_057_NSNumber_Ve_NSString.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 540;
+		vrLoc = 0;
+	};
+	8DD76F960486AA7600D96B5E /* _057_NSNumber_Ve_NSString */ = {
+		activeExec = 0;
+		executables = (
+			8C8A4D0815211D8F00C1C113 /* _057_NSNumber_Ve_NSString */,
+		);
+	};
+}

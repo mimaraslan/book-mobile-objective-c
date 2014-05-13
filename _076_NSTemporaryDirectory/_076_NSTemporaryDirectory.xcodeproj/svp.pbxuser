@@ -1,0 +1,123 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 8CA01280153DACC4003BBFB0 /* _076_NSTemporaryDirectory */;
+		activeTarget = 8DD76F960486AA7600D96B5E /* _076_NSTemporaryDirectory */;
+		codeSenseManager = 8CA01288153DACE5003BBFB0 /* Code sense */;
+		executables = (
+			8CA01280153DACC4003BBFB0 /* _076_NSTemporaryDirectory */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					234,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 357670637;
+			PBXWorkspaceStateSaveDate = 357670637;
+		};
+		perUserProjectItems = {
+			8CA0129F153DAD7C003BBFB0 /* PBXTextBookmark */ = 8CA0129F153DAD7C003BBFB0 /* PBXTextBookmark */;
+			8CB16E6115519F01001CED7C /* PBXTextBookmark */ = 8CB16E6115519F01001CED7C /* PBXTextBookmark */;
+		};
+		sourceControlManager = 8CA01287153DACE5003BBFB0 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* _076_NSTemporaryDirectory.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {460, 223}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 274}";
+			sepNavWindowFrame = "{{15, 337}, {525, 278}}";
+		};
+	};
+	8CA01280153DACC4003BBFB0 /* _076_NSTemporaryDirectory */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = _076_NSTemporaryDirectory;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	8CA01287153DACE5003BBFB0 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	8CA01288153DACE5003BBFB0 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8CA0129F153DAD7C003BBFB0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* _076_NSTemporaryDirectory.m */;
+		name = "_076_NSTemporaryDirectory.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 274;
+		vrLoc = 0;
+	};
+	8CB16E6115519F01001CED7C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* _076_NSTemporaryDirectory.m */;
+		name = "_076_NSTemporaryDirectory.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 274;
+		vrLoc = 0;
+	};
+	8DD76F960486AA7600D96B5E /* _076_NSTemporaryDirectory */ = {
+		activeExec = 0;
+		executables = (
+			8CA01280153DACC4003BBFB0 /* _076_NSTemporaryDirectory */,
+		);
+	};
+}

@@ -1,0 +1,114 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* _095_Selam_iPad_Kardes */ = {
+		activeExec = 0;
+		executables = (
+			8C97C20515556FC5000858FC /* _095_Selam_iPad_Kardes */,
+		);
+	};
+	28D7ACF70DDB3853001CB0EB /* _095_Selam_iPad_KardesViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {712, 767}}";
+			sepNavSelRange = "{151, 0}";
+			sepNavVisRange = "{0, 615}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 8C97C20515556FC5000858FC /* _095_Selam_iPad_Kardes */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* _095_Selam_iPad_Kardes */;
+		codeSenseManager = 8C97C20A15556FE5000858FC /* Code sense */;
+		executables = (
+			8C97C20515556FC5000858FC /* _095_Selam_iPad_Kardes */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					227.98046875,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 357920709;
+			PBXWorkspaceStateSaveDate = 357920709;
+		};
+		perUserProjectItems = {
+			8C97C21415557518000858FC /* PBXBookmark */ = 8C97C21415557518000858FC /* PBXBookmark */;
+			8C97C21515557518000858FC /* PBXTextBookmark */ = 8C97C21515557518000858FC /* PBXTextBookmark */;
+		};
+		sourceControlManager = 8C97C20915556FE5000858FC /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8C97C20515556FC5000858FC /* _095_Selam_iPad_Kardes */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = _095_Selam_iPad_Kardes;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	8C97C20915556FE5000858FC /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	8C97C20A15556FE5000858FC /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8C97C21415557518000858FC /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* _095_Selam_iPad_KardesViewController.m */;
+	};
+	8C97C21515557518000858FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* _095_Selam_iPad_KardesViewController.m */;
+		name = "_095_Selam_iPad_KardesViewController.m: 6";
+		rLen = 0;
+		rLoc = 151;
+		rType = 0;
+		vrLen = 615;
+		vrLoc = 0;
+	};
+}

@@ -1,0 +1,326 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 8C9239DC1524B2E900DA46B8 /* _063_NSDictionary_NSMutableDictionary_NSEnumerator_NSNumber */;
+		activeTarget = 8DD76F960486AA7600D96B5E /* _063_NSDictionary_NSMutableDictionary_NSEnumerator_NSNumber */;
+		codeSenseManager = 8C9239E61524B2FD00DA46B8 /* Code sense */;
+		executables = (
+			8C9239DC1524B2E900DA46B8 /* _063_NSDictionary_NSMutableDictionary_NSEnumerator_NSNumber */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					57.58349609375,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					29,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXSymbolsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXSymbolsDataSource_SymbolNameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					16,
+					200,
+					50,
+					45.20849609375,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXSymbolsDataSource_SymbolTypeIconID,
+					PBXSymbolsDataSource_SymbolNameID,
+					PBXSymbolsDataSource_SymbolTypeID,
+					PBXSymbolsDataSource_ReferenceNameID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 354726633;
+			PBXWorkspaceStateSaveDate = 354726633;
+		};
+		perUserProjectItems = {
+			8C9239E71524B30600DA46B8 /* PBXBookmark */ = 8C9239E71524B30600DA46B8 /* PBXBookmark */;
+			8C9239EE1524B4F400DA46B8 /* XCBuildMessageTextBookmark */ = 8C9239EE1524B4F400DA46B8 /* XCBuildMessageTextBookmark */;
+			8C9239EF1524B4F400DA46B8 /* PBXTextBookmark */ = 8C9239EF1524B4F400DA46B8 /* PBXTextBookmark */;
+			8C9239F71524BAB800DA46B8 /* XCBuildMessageTextBookmark */ = 8C9239F71524BAB800DA46B8 /* XCBuildMessageTextBookmark */;
+			8C9239F81524BAB800DA46B8 /* PBXTextBookmark */ = 8C9239F81524BAB800DA46B8 /* PBXTextBookmark */;
+			8C9239F91524BACE00DA46B8 /* XCBuildMessageTextBookmark */ = 8C9239F91524BACE00DA46B8 /* XCBuildMessageTextBookmark */;
+			8C9239FA1524BACE00DA46B8 /* PBXTextBookmark */ = 8C9239FA1524BACE00DA46B8 /* PBXTextBookmark */;
+			8C923A071524BEDB00DA46B8 /* XCBuildMessageTextBookmark */ = 8C923A071524BEDB00DA46B8 /* XCBuildMessageTextBookmark */;
+			8C923A081524BEDB00DA46B8 /* PBXTextBookmark */ = 8C923A081524BEDB00DA46B8 /* PBXTextBookmark */;
+			8C923A0B1524BEDB00DA46B8 /* PBXTextBookmark */ = 8C923A0B1524BEDB00DA46B8 /* PBXTextBookmark */;
+			8C923A0E1524BEFE00DA46B8 /* XCBuildMessageTextBookmark */ = 8C923A0E1524BEFE00DA46B8 /* XCBuildMessageTextBookmark */;
+			8C923A0F1524BEFE00DA46B8 /* PBXTextBookmark */ = 8C923A0F1524BEFE00DA46B8 /* PBXTextBookmark */;
+			8C923A101524BF0200DA46B8 /* XCBuildMessageTextBookmark */ = 8C923A101524BF0200DA46B8 /* XCBuildMessageTextBookmark */;
+			8C923A111524BF0200DA46B8 /* PBXTextBookmark */ = 8C923A111524BF0200DA46B8 /* PBXTextBookmark */;
+			8C923A121524BF0200DA46B8 /* PBXTextBookmark */ = 8C923A121524BF0200DA46B8 /* PBXTextBookmark */;
+			8C923A151524BFF700DA46B8 /* PBXTextBookmark */ = 8C923A151524BFF700DA46B8 /* PBXTextBookmark */;
+			8C923A261524C15D00DA46B8 /* XCBuildMessageTextBookmark */ = 8C923A261524C15D00DA46B8 /* XCBuildMessageTextBookmark */;
+			8C923A271524C15D00DA46B8 /* PBXTextBookmark */ = 8C923A271524C15D00DA46B8 /* PBXTextBookmark */;
+			8C923A281524C15F00DA46B8 /* PBXTextBookmark */ = 8C923A281524C15F00DA46B8 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 8C9239E51524B2FD00DA46B8 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* _063_NSDictionary_NSMutableDictionary_NSEnumerator_NSNumber.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {642, 689}}";
+			sepNavSelRange = "{1570, 0}";
+			sepNavVisRange = "{857, 575}";
+		};
+	};
+	8C9239DC1524B2E900DA46B8 /* _063_NSDictionary_NSMutableDictionary_NSEnumerator_NSNumber */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = _063_NSDictionary_NSMutableDictionary_NSEnumerator_NSNumber;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	8C9239E51524B2FD00DA46B8 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	8C9239E61524B2FD00DA46B8 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8C9239E71524B30600DA46B8 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* _063_NSDictionary_NSMutableDictionary_NSEnumerator_NSNumber.m */;
+	};
+	8C9239EE1524B4F400DA46B8 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "'cString' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:367)";
+		fRef = 08FB7796FE84155DC02AAC07 /* _063_NSDictionary_NSMutableDictionary_NSEnumerator_NSNumber.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 13;
+		rType = 1;
+	};
+	8C9239EF1524B4F400DA46B8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* _063_NSDictionary_NSMutableDictionary_NSEnumerator_NSNumber.m */;
+		name = "_063_NSDictionary_NSMutableDictionary_NSEnumerator_NSNumber.m: 14";
+		rLen = 0;
+		rLoc = 375;
+		rType = 0;
+		vrLen = 409;
+		vrLoc = 0;
+	};
+	8C9239F71524BAB800DA46B8 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "'cString' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:367)";
+		fRef = 08FB7796FE84155DC02AAC07 /* _063_NSDictionary_NSMutableDictionary_NSEnumerator_NSNumber.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 13;
+		rType = 1;
+	};
+	8C9239F81524BAB800DA46B8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* _063_NSDictionary_NSMutableDictionary_NSEnumerator_NSNumber.m */;
+		name = "_063_NSDictionary_NSMutableDictionary_NSEnumerator_NSNumber.m: 14";
+		rLen = 0;
+		rLoc = 375;
+		rType = 0;
+		vrLen = 409;
+		vrLoc = 0;
+	};
+	8C9239F91524BACE00DA46B8 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "'cString' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:367)";
+		fRef = 08FB7796FE84155DC02AAC07 /* _063_NSDictionary_NSMutableDictionary_NSEnumerator_NSNumber.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 14;
+		rType = 1;
+	};
+	8C9239FA1524BACE00DA46B8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* _063_NSDictionary_NSMutableDictionary_NSEnumerator_NSNumber.m */;
+		name = "_063_NSDictionary_NSMutableDictionary_NSEnumerator_NSNumber.m: 15";
+		rLen = 0;
+		rLoc = 410;
+		rType = 0;
+		vrLen = 387;
+		vrLoc = 198;
+	};
+	8C923A071524BEDB00DA46B8 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "'cString' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:367)";
+		fRef = 08FB7796FE84155DC02AAC07 /* _063_NSDictionary_NSMutableDictionary_NSEnumerator_NSNumber.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 13;
+		rType = 1;
+	};
+	8C923A081524BEDB00DA46B8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* _063_NSDictionary_NSMutableDictionary_NSEnumerator_NSNumber.m */;
+		name = "_063_NSDictionary_NSMutableDictionary_NSEnumerator_NSNumber.m: 14";
+		rLen = 0;
+		rLoc = 375;
+		rType = 0;
+		vrLen = 473;
+		vrLoc = 0;
+	};
+	8C923A0B1524BEDB00DA46B8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* _063_NSDictionary_NSMutableDictionary_NSEnumerator_NSNumber.m */;
+		name = "_063_NSDictionary_NSMutableDictionary_NSEnumerator_NSNumber.m: 52";
+		rLen = 0;
+		rLoc = 1601;
+		rType = 0;
+		vrLen = 930;
+		vrLoc = 0;
+	};
+	8C923A0E1524BEFE00DA46B8 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "'cString' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:367)";
+		fRef = 08FB7796FE84155DC02AAC07 /* _063_NSDictionary_NSMutableDictionary_NSEnumerator_NSNumber.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 14;
+		rType = 1;
+	};
+	8C923A0F1524BEFE00DA46B8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* _063_NSDictionary_NSMutableDictionary_NSEnumerator_NSNumber.m */;
+		name = "_063_NSDictionary_NSMutableDictionary_NSEnumerator_NSNumber.m: 15";
+		rLen = 0;
+		rLoc = 410;
+		rType = 0;
+		vrLen = 373;
+		vrLoc = 198;
+	};
+	8C923A101524BF0200DA46B8 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "'cString' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:367)";
+		fRef = 08FB7796FE84155DC02AAC07 /* _063_NSDictionary_NSMutableDictionary_NSEnumerator_NSNumber.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 14;
+		rType = 1;
+	};
+	8C923A111524BF0200DA46B8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* _063_NSDictionary_NSMutableDictionary_NSEnumerator_NSNumber.m */;
+		name = "_063_NSDictionary_NSMutableDictionary_NSEnumerator_NSNumber.m: 15";
+		rLen = 0;
+		rLoc = 410;
+		rType = 0;
+		vrLen = 473;
+		vrLoc = 0;
+	};
+	8C923A121524BF0200DA46B8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* _063_NSDictionary_NSMutableDictionary_NSEnumerator_NSNumber.m */;
+		name = "_063_NSDictionary_NSMutableDictionary_NSEnumerator_NSNumber.m: 21";
+		rLen = 0;
+		rLoc = 585;
+		rType = 0;
+		vrLen = 930;
+		vrLoc = 0;
+	};
+	8C923A151524BFF700DA46B8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* _063_NSDictionary_NSMutableDictionary_NSEnumerator_NSNumber.m */;
+		name = "_063_NSDictionary_NSMutableDictionary_NSEnumerator_NSNumber.m: 15";
+		rLen = 0;
+		rLoc = 410;
+		rType = 0;
+		vrLen = 325;
+		vrLoc = 198;
+	};
+	8C923A261524C15D00DA46B8 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "'pool' undeclared (first use in this function)";
+		fRef = 08FB7796FE84155DC02AAC07 /* _063_NSDictionary_NSMutableDictionary_NSEnumerator_NSNumber.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 48;
+		rType = 1;
+	};
+	8C923A271524C15D00DA46B8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* _063_NSDictionary_NSMutableDictionary_NSEnumerator_NSNumber.m */;
+		name = "_063_NSDictionary_NSMutableDictionary_NSEnumerator_NSNumber.m: 49";
+		rLen = 0;
+		rLoc = 1570;
+		rType = 0;
+		vrLen = 575;
+		vrLoc = 857;
+	};
+	8C923A281524C15F00DA46B8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* _063_NSDictionary_NSMutableDictionary_NSEnumerator_NSNumber.m */;
+		name = "_063_NSDictionary_NSMutableDictionary_NSEnumerator_NSNumber.m: 49";
+		rLen = 0;
+		rLoc = 1570;
+		rType = 0;
+		vrLen = 575;
+		vrLoc = 857;
+	};
+	8DD76F960486AA7600D96B5E /* _063_NSDictionary_NSMutableDictionary_NSEnumerator_NSNumber */ = {
+		activeExec = 0;
+		executables = (
+			8C9239DC1524B2E900DA46B8 /* _063_NSDictionary_NSMutableDictionary_NSEnumerator_NSNumber */,
+		);
+	};
+}

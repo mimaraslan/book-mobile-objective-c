@@ -1,0 +1,144 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 8C9CDB5C153F530D00CDEE4F /* _088_Import_Kullanimi */;
+		activeTarget = 8DD76F960486AA7600D96B5E /* _088_Import_Kullanimi */;
+		addToTargets = (
+		);
+		codeSenseManager = 8C9CDB64153F532D00CDEE4F /* Code sense */;
+		executables = (
+			8C9CDB5C153F530D00CDEE4F /* _088_Import_Kullanimi */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					263,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 357671314;
+			PBXWorkspaceStateSaveDate = 357671314;
+		};
+		perUserProjectItems = {
+			8C9CDB67153F553B00CDEE4F /* PBXTextBookmark */ = 8C9CDB67153F553B00CDEE4F /* PBXTextBookmark */;
+			8C9CDB8E153F575000CDEE4F /* PBXTextBookmark */ = 8C9CDB8E153F575000CDEE4F /* PBXTextBookmark */;
+			8CB16EF91551A1A5001CED7C /* PBXTextBookmark */ = 8CB16EF91551A1A5001CED7C /* PBXTextBookmark */;
+		};
+		sourceControlManager = 8C9CDB63153F532D00CDEE4F /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* _088_Import_Kullanimi.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {540, 236}}";
+			sepNavSelRange = "{251, 0}";
+			sepNavVisRange = "{0, 471}";
+			sepNavWindowFrame = "{{155, 154}, {599, 308}}";
+		};
+	};
+	8C9CDB5C153F530D00CDEE4F /* _088_Import_Kullanimi */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = _088_Import_Kullanimi;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	8C9CDB63153F532D00CDEE4F /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	8C9CDB64153F532D00CDEE4F /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8C9CDB65153F53FF00CDEE4F /* bizimkutuphanemiz.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {441, 285}}";
+			sepNavSelRange = "{32, 0}";
+			sepNavVisRange = "{0, 34}";
+			sepNavWindowFrame = "{{417, 138}, {657, 332}}";
+		};
+	};
+	8C9CDB67153F553B00CDEE4F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* _088_Import_Kullanimi.m */;
+		name = "_088_Import_Kullanimi.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 325;
+		vrLoc = 0;
+	};
+	8C9CDB8E153F575000CDEE4F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8C9CDB65153F53FF00CDEE4F /* bizimkutuphanemiz.h */;
+		name = "bizimkutuphanemiz.h: 2";
+		rLen = 0;
+		rLoc = 32;
+		rType = 0;
+		vrLen = 34;
+		vrLoc = 0;
+	};
+	8CB16EF91551A1A5001CED7C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8C9CDB65153F53FF00CDEE4F /* bizimkutuphanemiz.h */;
+		name = "bizimkutuphanemiz.h: 2";
+		rLen = 0;
+		rLoc = 32;
+		rType = 0;
+		vrLen = 34;
+		vrLoc = 0;
+	};
+	8DD76F960486AA7600D96B5E /* _088_Import_Kullanimi */ = {
+		activeExec = 0;
+		executables = (
+			8C9CDB5C153F530D00CDEE4F /* _088_Import_Kullanimi */,
+		);
+	};
+}
