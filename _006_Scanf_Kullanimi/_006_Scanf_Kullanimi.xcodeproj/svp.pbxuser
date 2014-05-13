@@ -1,0 +1,138 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 8C91152114ECF0730031560D /* _006_Scanf_Kullanimi */;
+		activeTarget = 8DD76F960486AA7600D96B5E /* _006_Scanf_Kullanimi */;
+		codeSenseManager = 8C91152914ECF0930031560D /* Code sense */;
+		executables = (
+			8C91152114ECF0730031560D /* _006_Scanf_Kullanimi */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 351098223;
+			PBXWorkspaceStateSaveDate = 351098223;
+		};
+		perUserProjectItems = {
+			8C8BEDC814ED08DA00908264 /* PBXTextBookmark */ = 8C8BEDC814ED08DA00908264 /* PBXTextBookmark */;
+			8C902EE514ED559C00A4B708 /* PBXTextBookmark */ = 8C902EE514ED559C00A4B708 /* PBXTextBookmark */;
+			8C902EE614ED559C00A4B708 /* PBXTextBookmark */ = 8C902EE614ED559C00A4B708 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 8C91152814ECF0930031560D /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* _006_Scanf_Kullanimi.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {544, 325}}";
+			sepNavSelRange = "{0, 735}";
+			sepNavVisRange = "{171, 562}";
+			sepNavWindowFrame = "{{15, 123}, {698, 465}}";
+		};
+	};
+	32A70AAB03705E1F00C91783 /* _006_Scanf_Kullanimi_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {803, 227}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 182}";
+		};
+	};
+	8C8BEDC814ED08DA00908264 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32A70AAB03705E1F00C91783 /* _006_Scanf_Kullanimi_Prefix.pch */;
+		name = "_006_Scanf_Kullanimi_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 182;
+		vrLoc = 0;
+	};
+	8C902EE514ED559C00A4B708 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* _006_Scanf_Kullanimi.m */;
+		name = "_006_Scanf_Kullanimi.m: 1";
+		rLen = 735;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 562;
+		vrLoc = 171;
+	};
+	8C902EE614ED559C00A4B708 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* _006_Scanf_Kullanimi.m */;
+		name = "_006_Scanf_Kullanimi.m: 1";
+		rLen = 735;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 562;
+		vrLoc = 171;
+	};
+	8C91152114ECF0730031560D /* _006_Scanf_Kullanimi */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = _006_Scanf_Kullanimi;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	8C91152814ECF0930031560D /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	8C91152914ECF0930031560D /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8DD76F960486AA7600D96B5E /* _006_Scanf_Kullanimi */ = {
+		activeExec = 0;
+		executables = (
+			8C91152114ECF0730031560D /* _006_Scanf_Kullanimi */,
+		);
+	};
+}

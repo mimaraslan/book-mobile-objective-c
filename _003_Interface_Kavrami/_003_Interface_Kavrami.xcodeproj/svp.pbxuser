@@ -1,0 +1,140 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 8C0EA4B014E9194D0033123F /* _003_Interface_Kavrami */;
+		activeTarget = 8DD76F960486AA7600D96B5E /* _003_Interface_Kavrami */;
+		codeSenseManager = 8C0EA4B514E9196B0033123F /* Code sense */;
+		executables = (
+			8C0EA4B014E9194D0033123F /* _003_Interface_Kavrami */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					390,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 350823824;
+			PBXWorkspaceStateSaveDate = 350823824;
+		};
+		perUserProjectItems = {
+			8C0EA4C614E9231F0033123F /* PBXTextBookmark */ = 8C0EA4C614E9231F0033123F /* PBXTextBookmark */;
+			8C0EA51914E92C870033123F /* XCBuildMessageTextBookmark */ = 8C0EA51914E92C870033123F /* XCBuildMessageTextBookmark */;
+			8C0EA52F14E92D960033123F /* PBXTextBookmark */ = 8C0EA52F14E92D960033123F /* PBXTextBookmark */;
+		};
+		sourceControlManager = 8C0EA4B414E9196B0033123F /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* _003_Interface_Kavrami.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {621, 1001}}";
+			sepNavSelRange = "{1234, 0}";
+			sepNavVisRange = "{906, 574}";
+			sepNavWindowFrame = "{{195, 86}, {690, 537}}";
+		};
+	};
+	8C0EA4B014E9194D0033123F /* _003_Interface_Kavrami */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = _003_Interface_Kavrami;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	8C0EA4B414E9196B0033123F /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	8C0EA4B514E9196B0033123F /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8C0EA4C614E9231F0033123F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8C0EA4C714E9231F0033123F /* _002_Degiskenler.m */;
+		name = "_002_Degiskenler.m: 14";
+		rLen = 0;
+		rLoc = 420;
+		rType = 0;
+		vrLen = 577;
+		vrLoc = 0;
+	};
+	8C0EA4C714E9231F0033123F /* _002_Degiskenler.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = _002_Degiskenler.m;
+		path = /Users/svp/Documents/_002_Degiskenler/_002_Degiskenler.m;
+		sourceTree = "<absolute>";
+	};
+	8C0EA51914E92C870033123F /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "'kilosu' undeclared (first use in this function)";
+		fRef = 08FB7796FE84155DC02AAC07 /* _003_Interface_Kavrami.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 68;
+		rType = 1;
+	};
+	8C0EA52F14E92D960033123F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* _003_Interface_Kavrami.m */;
+		name = "_003_Interface_Kavrami.m: 68";
+		rLen = 0;
+		rLoc = 1234;
+		rType = 0;
+		vrLen = 574;
+		vrLoc = 906;
+	};
+	8DD76F960486AA7600D96B5E /* _003_Interface_Kavrami */ = {
+		activeExec = 0;
+		executables = (
+			8C0EA4B014E9194D0033123F /* _003_Interface_Kavrami */,
+		);
+	};
+}

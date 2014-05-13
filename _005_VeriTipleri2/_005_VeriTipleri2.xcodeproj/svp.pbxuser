@@ -1,0 +1,141 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 8C0EA54B14E934F30033123F /* _005_VeriTipleri2 */;
+		activeTarget = 8DD76F960486AA7600D96B5E /* _005_VeriTipleri2 */;
+		codeSenseManager = 8C0EA55014E935110033123F /* Code sense */;
+		executables = (
+			8C0EA54B14E934F30033123F /* _005_VeriTipleri2 */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 350861967;
+			PBXWorkspaceStateSaveDate = 350861967;
+		};
+		perUserProjectItems = {
+			8C91156514E9A82A005B0601 /* PBXTextBookmark */ = 8C91156514E9A82A005B0601 /* PBXTextBookmark */;
+			8CAC804914E9BBDC006AEE29 /* PBXTextBookmark */ = 8CAC804914E9BBDC006AEE29 /* PBXTextBookmark */;
+			8CAC804A14E9BBDC006AEE29 /* PBXTextBookmark */ = 8CAC804A14E9BBDC006AEE29 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 8C0EA54F14E935110033123F /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* _005_VeriTipleri2.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {656, 1066}}";
+			sepNavSelRange = "{1186, 0}";
+			sepNavVisRange = "{863, 763}";
+			sepNavWindowFrame = "{{15, 126}, {698, 465}}";
+		};
+	};
+	32A70AAB03705E1F00C91783 /* _005_VeriTipleri2_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {761, 238}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 176}";
+		};
+	};
+	8C0EA54B14E934F30033123F /* _005_VeriTipleri2 */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = _005_VeriTipleri2;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	8C0EA54F14E935110033123F /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	8C0EA55014E935110033123F /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8C91156514E9A82A005B0601 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32A70AAB03705E1F00C91783 /* _005_VeriTipleri2_Prefix.pch */;
+		name = "_005_VeriTipleri2_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 176;
+		vrLoc = 0;
+	};
+	8CAC804914E9BBDC006AEE29 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* _005_VeriTipleri2.m */;
+		name = "_005_VeriTipleri2.m: 30";
+		rLen = 0;
+		rLoc = 1186;
+		rType = 0;
+		vrLen = 763;
+		vrLoc = 863;
+	};
+	8CAC804A14E9BBDC006AEE29 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* _005_VeriTipleri2.m */;
+		name = "_005_VeriTipleri2.m: 30";
+		rLen = 0;
+		rLoc = 1186;
+		rType = 0;
+		vrLen = 763;
+		vrLoc = 863;
+	};
+	8DD76F960486AA7600D96B5E /* _005_VeriTipleri2 */ = {
+		activeExec = 0;
+		executables = (
+			8C0EA54B14E934F30033123F /* _005_VeriTipleri2 */,
+		);
+	};
+}

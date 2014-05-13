@@ -1,0 +1,139 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 8C902FD914ED694100A4B708 /* _019_Switch_Karar_Kontrol_Yapisi2 */;
+		activeTarget = 8DD76F960486AA7600D96B5E /* _019_Switch_Karar_Kontrol_Yapisi2 */;
+		codeSenseManager = 8C902FE914ED696000A4B708 /* Code sense */;
+		executables = (
+			8C902FD914ED694100A4B708 /* _019_Switch_Karar_Kontrol_Yapisi2 */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 351103720;
+			PBXWorkspaceStateSaveDate = 351103720;
+		};
+		perUserProjectItems = {
+			8C902FEA14ED69EC00A4B708 = 8C902FEA14ED69EC00A4B708 /* PBXBookmark */;
+			8C902FF514ED6AE100A4B708 = 8C902FF514ED6AE100A4B708 /* PBXTextBookmark */;
+			8C902FF614ED6AE100A4B708 = 8C902FF614ED6AE100A4B708 /* PBXTextBookmark */;
+			8C902FFC14ED6AE100A4B708 = 8C902FFC14ED6AE100A4B708 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 8C902FE814ED696000A4B708 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* _019_Switch_Karar_Kontrol_Yapisi2.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 416}}";
+			sepNavSelRange = "{438, 0}";
+			sepNavVisRange = "{293, 304}";
+			sepNavWindowFrame = "{{15, 93}, {522, 500}}";
+		};
+	};
+	8C902FD914ED694100A4B708 /* _019_Switch_Karar_Kontrol_Yapisi2 */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = _019_Switch_Karar_Kontrol_Yapisi2;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	8C902FE814ED696000A4B708 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	8C902FE914ED696000A4B708 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8C902FEA14ED69EC00A4B708 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* _019_Switch_Karar_Kontrol_Yapisi2.m */;
+	};
+	8C902FF514ED6AE100A4B708 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* _019_Switch_Karar_Kontrol_Yapisi2.m */;
+		name = "_019_Switch_Karar_Kontrol_Yapisi2.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 234;
+		vrLoc = 0;
+	};
+	8C902FF614ED6AE100A4B708 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* _019_Switch_Karar_Kontrol_Yapisi2.m */;
+		name = "_019_Switch_Karar_Kontrol_Yapisi2.m: 21";
+		rLen = 0;
+		rLoc = 438;
+		rType = 0;
+		vrLen = 304;
+		vrLoc = 293;
+	};
+	8C902FFC14ED6AE100A4B708 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* _019_Switch_Karar_Kontrol_Yapisi2.m */;
+		name = "_019_Switch_Karar_Kontrol_Yapisi2.m: 20";
+		rLen = 0;
+		rLoc = 422;
+		rType = 0;
+		vrLen = 597;
+		vrLoc = 0;
+	};
+	8DD76F960486AA7600D96B5E /* _019_Switch_Karar_Kontrol_Yapisi2 */ = {
+		activeExec = 0;
+		executables = (
+			8C902FD914ED694100A4B708 /* _019_Switch_Karar_Kontrol_Yapisi2 */,
+		);
+	};
+}
